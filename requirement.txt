@@ -1,0 +1,7 @@
+numpy
+torchvision
+streamlit
+torch==2.4.0
+segmentation_models_pytorch
+matplotlib
+PIL
